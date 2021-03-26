@@ -1,5 +1,5 @@
-
-input_file = "/Users/santi/Documents/Algorithm Class Stanford/Assignments/Class 2/Assignment_1/testCase.txt"
+"""Below won't work for large graphs"""
+input_file = "wherever it is stored"
 def inputGenerator(input_file):
     """Get the Input"""
     with open(input_file, 'r') as data:
